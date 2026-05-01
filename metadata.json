@@ -1,6 +1,13 @@
 {
-  "name": "Mohamed Tarek | Digital Command Center",
-  "description": "High-end responsive portfolio for Mohamed Tarek, Software Engineer and Cybersecurity Specialist.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
+  "identity": "Mohamed Tarek",
+  "designation": "The 0.1% Sovereign Specialist",
+  "version": "2.0.4",
+  "origin": "Cairo, Egypt",
+  "specialization": [
+    "Software Engineering",
+    "Offensive Security",
+    "Technical Polyglot"
+  ],
+  "clearance": "Sovereign",
+  "last_update": "2026-05-02"
 }
