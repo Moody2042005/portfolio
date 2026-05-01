@@ -1,27 +1,23 @@
 {
   "name": "mohamed-tarek-portfolio",
-  "private": true,
   "version": "2.0.4",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "lucide-react": "latest",
-    "motion": "latest",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
-  },
-  "devDependencies": {
-    "@types/react": "^18.3.1",
-    "@types/react-dom": "^18.3.1",
-    "@vitejs/plugin-react": "^4.3.1",
-    "autoprefixer": "^10.4.20",
-    "postcss": "^8.4.47",
-    "tailwindcss": "^3.4.13",
-    "typescript": "^5.5.3",
-    "vite": "^5.4.2"
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "mohamed-tarek-portfolio",
+      "version": "2.0.4",
+      "dependencies": {
+        "lucide-react": "^0.446.0",
+        "motion": "^11.11.0",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
+      }
+    },
+    "node_modules/motion": {
+      "version": "11.11.11",
+      "resolved": "https://registry.npmjs.org/motion/-/motion-11.11.11.tgz",
+      "integrity": "sha512-..."
+    }
   }
 }
